@@ -1,0 +1,3 @@
+Created 18-11-2023
+
+Will be logging the progress for the pytorch tutorial.
